@@ -1,0 +1,8 @@
+---
+title: "HW 06 - S"
+author: "INSERT NAME HERE"
+date: "INSERT TODAY'S DATE HERE"
+output: github_document
+---
+
+Fill out to your heart's desire...

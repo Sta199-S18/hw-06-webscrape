@@ -1,2 +1,3 @@
-# hw-03-webscrape
-Starter docs and code and data for hw-03-webscrape
+# hw-06-webscrape
+
+Starter docs and code and data for hw-06-webscrape
